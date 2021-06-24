@@ -1,0 +1,16 @@
+C:\Users\david\Desktop\Sommarlov 2021 - självstudier\CSHARP 9 AND NET 5\Kapitel 2\Basic\bin\Debug\net5.0\Basic.exe
+C:\Users\david\Desktop\Sommarlov 2021 - självstudier\CSHARP 9 AND NET 5\Kapitel 2\Basic\bin\Debug\net5.0\Basic.deps.json
+C:\Users\david\Desktop\Sommarlov 2021 - självstudier\CSHARP 9 AND NET 5\Kapitel 2\Basic\bin\Debug\net5.0\Basic.runtimeconfig.json
+C:\Users\david\Desktop\Sommarlov 2021 - självstudier\CSHARP 9 AND NET 5\Kapitel 2\Basic\bin\Debug\net5.0\Basic.runtimeconfig.dev.json
+C:\Users\david\Desktop\Sommarlov 2021 - självstudier\CSHARP 9 AND NET 5\Kapitel 2\Basic\bin\Debug\net5.0\Basic.dll
+C:\Users\david\Desktop\Sommarlov 2021 - självstudier\CSHARP 9 AND NET 5\Kapitel 2\Basic\bin\Debug\net5.0\ref\Basic.dll
+C:\Users\david\Desktop\Sommarlov 2021 - självstudier\CSHARP 9 AND NET 5\Kapitel 2\Basic\bin\Debug\net5.0\Basic.pdb
+C:\Users\david\Desktop\Sommarlov 2021 - självstudier\CSHARP 9 AND NET 5\Kapitel 2\Basic\obj\Debug\net5.0\Basic.csprojAssemblyReference.cache
+C:\Users\david\Desktop\Sommarlov 2021 - självstudier\CSHARP 9 AND NET 5\Kapitel 2\Basic\obj\Debug\net5.0\Basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Desktop\Sommarlov 2021 - självstudier\CSHARP 9 AND NET 5\Kapitel 2\Basic\obj\Debug\net5.0\Basic.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\Sommarlov 2021 - självstudier\CSHARP 9 AND NET 5\Kapitel 2\Basic\obj\Debug\net5.0\Basic.AssemblyInfo.cs
+C:\Users\david\Desktop\Sommarlov 2021 - självstudier\CSHARP 9 AND NET 5\Kapitel 2\Basic\obj\Debug\net5.0\Basic.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\Sommarlov 2021 - självstudier\CSHARP 9 AND NET 5\Kapitel 2\Basic\obj\Debug\net5.0\Basic.dll
+C:\Users\david\Desktop\Sommarlov 2021 - självstudier\CSHARP 9 AND NET 5\Kapitel 2\Basic\obj\Debug\net5.0\ref\Basic.dll
+C:\Users\david\Desktop\Sommarlov 2021 - självstudier\CSHARP 9 AND NET 5\Kapitel 2\Basic\obj\Debug\net5.0\Basic.pdb
+C:\Users\david\Desktop\Sommarlov 2021 - självstudier\CSHARP 9 AND NET 5\Kapitel 2\Basic\obj\Debug\net5.0\Basic.genruntimeconfig.cache

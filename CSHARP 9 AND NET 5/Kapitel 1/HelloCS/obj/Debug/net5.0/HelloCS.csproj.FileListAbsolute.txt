@@ -1,0 +1,16 @@
+C:\Users\david\Desktop\Sommarlov 2021 - självstudier\CSHARP 9 AND NET 5\Kapitel 1\HelloCS\bin\Debug\net5.0\HelloCS.exe
+C:\Users\david\Desktop\Sommarlov 2021 - självstudier\CSHARP 9 AND NET 5\Kapitel 1\HelloCS\bin\Debug\net5.0\HelloCS.deps.json
+C:\Users\david\Desktop\Sommarlov 2021 - självstudier\CSHARP 9 AND NET 5\Kapitel 1\HelloCS\bin\Debug\net5.0\HelloCS.runtimeconfig.json
+C:\Users\david\Desktop\Sommarlov 2021 - självstudier\CSHARP 9 AND NET 5\Kapitel 1\HelloCS\bin\Debug\net5.0\HelloCS.runtimeconfig.dev.json
+C:\Users\david\Desktop\Sommarlov 2021 - självstudier\CSHARP 9 AND NET 5\Kapitel 1\HelloCS\bin\Debug\net5.0\HelloCS.dll
+C:\Users\david\Desktop\Sommarlov 2021 - självstudier\CSHARP 9 AND NET 5\Kapitel 1\HelloCS\bin\Debug\net5.0\ref\HelloCS.dll
+C:\Users\david\Desktop\Sommarlov 2021 - självstudier\CSHARP 9 AND NET 5\Kapitel 1\HelloCS\bin\Debug\net5.0\HelloCS.pdb
+C:\Users\david\Desktop\Sommarlov 2021 - självstudier\CSHARP 9 AND NET 5\Kapitel 1\HelloCS\obj\Debug\net5.0\HelloCS.csprojAssemblyReference.cache
+C:\Users\david\Desktop\Sommarlov 2021 - självstudier\CSHARP 9 AND NET 5\Kapitel 1\HelloCS\obj\Debug\net5.0\HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Desktop\Sommarlov 2021 - självstudier\CSHARP 9 AND NET 5\Kapitel 1\HelloCS\obj\Debug\net5.0\HelloCS.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\Sommarlov 2021 - självstudier\CSHARP 9 AND NET 5\Kapitel 1\HelloCS\obj\Debug\net5.0\HelloCS.AssemblyInfo.cs
+C:\Users\david\Desktop\Sommarlov 2021 - självstudier\CSHARP 9 AND NET 5\Kapitel 1\HelloCS\obj\Debug\net5.0\HelloCS.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\Sommarlov 2021 - självstudier\CSHARP 9 AND NET 5\Kapitel 1\HelloCS\obj\Debug\net5.0\HelloCS.dll
+C:\Users\david\Desktop\Sommarlov 2021 - självstudier\CSHARP 9 AND NET 5\Kapitel 1\HelloCS\obj\Debug\net5.0\ref\HelloCS.dll
+C:\Users\david\Desktop\Sommarlov 2021 - självstudier\CSHARP 9 AND NET 5\Kapitel 1\HelloCS\obj\Debug\net5.0\HelloCS.pdb
+C:\Users\david\Desktop\Sommarlov 2021 - självstudier\CSHARP 9 AND NET 5\Kapitel 1\HelloCS\obj\Debug\net5.0\HelloCS.genruntimeconfig.cache
