@@ -1,0 +1,16 @@
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 2\Arguments\Arguments\bin\Debug\net5.0\Arguments.exe
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 2\Arguments\Arguments\bin\Debug\net5.0\Arguments.deps.json
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 2\Arguments\Arguments\bin\Debug\net5.0\Arguments.runtimeconfig.json
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 2\Arguments\Arguments\bin\Debug\net5.0\Arguments.runtimeconfig.dev.json
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 2\Arguments\Arguments\bin\Debug\net5.0\Arguments.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 2\Arguments\Arguments\bin\Debug\net5.0\ref\Arguments.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 2\Arguments\Arguments\bin\Debug\net5.0\Arguments.pdb
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 2\Arguments\Arguments\obj\Debug\net5.0\Arguments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 2\Arguments\Arguments\obj\Debug\net5.0\Arguments.AssemblyInfoInputs.cache
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 2\Arguments\Arguments\obj\Debug\net5.0\Arguments.AssemblyInfo.cs
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 2\Arguments\Arguments\obj\Debug\net5.0\Arguments.csproj.CoreCompileInputs.cache
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 2\Arguments\Arguments\obj\Debug\net5.0\Arguments.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 2\Arguments\Arguments\obj\Debug\net5.0\ref\Arguments.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 2\Arguments\Arguments\obj\Debug\net5.0\Arguments.pdb
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 2\Arguments\Arguments\obj\Debug\net5.0\Arguments.genruntimeconfig.cache
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 2\Arguments\Arguments\obj\Debug\net5.0\Arguments.csproj.AssemblyReference.cache

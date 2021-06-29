@@ -1,0 +1,16 @@
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 2\Formatting\Formatting\bin\Debug\net5.0\Formatting.exe
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 2\Formatting\Formatting\bin\Debug\net5.0\Formatting.deps.json
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 2\Formatting\Formatting\bin\Debug\net5.0\Formatting.runtimeconfig.json
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 2\Formatting\Formatting\bin\Debug\net5.0\Formatting.runtimeconfig.dev.json
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 2\Formatting\Formatting\bin\Debug\net5.0\Formatting.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 2\Formatting\Formatting\bin\Debug\net5.0\ref\Formatting.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 2\Formatting\Formatting\bin\Debug\net5.0\Formatting.pdb
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 2\Formatting\Formatting\obj\Debug\net5.0\Formatting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 2\Formatting\Formatting\obj\Debug\net5.0\Formatting.AssemblyInfoInputs.cache
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 2\Formatting\Formatting\obj\Debug\net5.0\Formatting.AssemblyInfo.cs
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 2\Formatting\Formatting\obj\Debug\net5.0\Formatting.csproj.CoreCompileInputs.cache
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 2\Formatting\Formatting\obj\Debug\net5.0\Formatting.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 2\Formatting\Formatting\obj\Debug\net5.0\ref\Formatting.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 2\Formatting\Formatting\obj\Debug\net5.0\Formatting.pdb
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 2\Formatting\Formatting\obj\Debug\net5.0\Formatting.genruntimeconfig.cache
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 2\Formatting\Formatting\obj\Debug\net5.0\Formatting.csproj.AssemblyReference.cache
