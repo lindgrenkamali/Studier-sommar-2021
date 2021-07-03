@@ -1,0 +1,15 @@
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\IterationStatements\IterationStatements\bin\Debug\net5.0\IterationStatements.exe
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\IterationStatements\IterationStatements\bin\Debug\net5.0\IterationStatements.deps.json
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\IterationStatements\IterationStatements\bin\Debug\net5.0\IterationStatements.runtimeconfig.json
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\IterationStatements\IterationStatements\bin\Debug\net5.0\IterationStatements.runtimeconfig.dev.json
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\IterationStatements\IterationStatements\bin\Debug\net5.0\IterationStatements.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\IterationStatements\IterationStatements\bin\Debug\net5.0\ref\IterationStatements.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\IterationStatements\IterationStatements\bin\Debug\net5.0\IterationStatements.pdb
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\IterationStatements\IterationStatements\obj\Debug\net5.0\IterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\IterationStatements\IterationStatements\obj\Debug\net5.0\IterationStatements.AssemblyInfoInputs.cache
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\IterationStatements\IterationStatements\obj\Debug\net5.0\IterationStatements.AssemblyInfo.cs
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\IterationStatements\IterationStatements\obj\Debug\net5.0\IterationStatements.csproj.CoreCompileInputs.cache
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\IterationStatements\IterationStatements\obj\Debug\net5.0\IterationStatements.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\IterationStatements\IterationStatements\obj\Debug\net5.0\ref\IterationStatements.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\IterationStatements\IterationStatements\obj\Debug\net5.0\IterationStatements.pdb
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\IterationStatements\IterationStatements\obj\Debug\net5.0\IterationStatements.genruntimeconfig.cache

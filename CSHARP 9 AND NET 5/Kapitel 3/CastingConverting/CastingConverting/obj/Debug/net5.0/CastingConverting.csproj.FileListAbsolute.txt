@@ -1,0 +1,16 @@
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\CastingConverting\CastingConverting\bin\Debug\net5.0\CastingConverting.exe
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\CastingConverting\CastingConverting\bin\Debug\net5.0\CastingConverting.deps.json
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\CastingConverting\CastingConverting\bin\Debug\net5.0\CastingConverting.runtimeconfig.json
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\CastingConverting\CastingConverting\bin\Debug\net5.0\CastingConverting.runtimeconfig.dev.json
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\CastingConverting\CastingConverting\bin\Debug\net5.0\CastingConverting.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\CastingConverting\CastingConverting\bin\Debug\net5.0\ref\CastingConverting.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\CastingConverting\CastingConverting\bin\Debug\net5.0\CastingConverting.pdb
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\CastingConverting\CastingConverting\obj\Debug\net5.0\CastingConverting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\CastingConverting\CastingConverting\obj\Debug\net5.0\CastingConverting.AssemblyInfoInputs.cache
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\CastingConverting\CastingConverting\obj\Debug\net5.0\CastingConverting.AssemblyInfo.cs
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\CastingConverting\CastingConverting\obj\Debug\net5.0\CastingConverting.csproj.CoreCompileInputs.cache
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\CastingConverting\CastingConverting\obj\Debug\net5.0\CastingConverting.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\CastingConverting\CastingConverting\obj\Debug\net5.0\ref\CastingConverting.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\CastingConverting\CastingConverting\obj\Debug\net5.0\CastingConverting.pdb
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\CastingConverting\CastingConverting\obj\Debug\net5.0\CastingConverting.genruntimeconfig.cache
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\CastingConverting\CastingConverting\obj\Debug\net5.0\CastingConverting.csproj.AssemblyReference.cache

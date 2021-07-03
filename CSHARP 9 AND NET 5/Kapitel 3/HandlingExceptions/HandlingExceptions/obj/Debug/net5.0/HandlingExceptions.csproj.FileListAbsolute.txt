@@ -1,0 +1,15 @@
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\HandlingExceptions\HandlingExceptions\bin\Debug\net5.0\HandlingExceptions.exe
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\HandlingExceptions\HandlingExceptions\bin\Debug\net5.0\HandlingExceptions.deps.json
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\HandlingExceptions\HandlingExceptions\bin\Debug\net5.0\HandlingExceptions.runtimeconfig.json
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\HandlingExceptions\HandlingExceptions\bin\Debug\net5.0\HandlingExceptions.runtimeconfig.dev.json
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\HandlingExceptions\HandlingExceptions\bin\Debug\net5.0\HandlingExceptions.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\HandlingExceptions\HandlingExceptions\bin\Debug\net5.0\ref\HandlingExceptions.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\HandlingExceptions\HandlingExceptions\bin\Debug\net5.0\HandlingExceptions.pdb
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\HandlingExceptions\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\HandlingExceptions\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.AssemblyInfoInputs.cache
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\HandlingExceptions\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.AssemblyInfo.cs
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\HandlingExceptions\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.csproj.CoreCompileInputs.cache
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\HandlingExceptions\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\HandlingExceptions\HandlingExceptions\obj\Debug\net5.0\ref\HandlingExceptions.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\HandlingExceptions\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.pdb
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\HandlingExceptions\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.genruntimeconfig.cache

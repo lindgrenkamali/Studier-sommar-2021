@@ -1,0 +1,16 @@
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 4\WritingFunctions\WritingFunctions\bin\Debug\net5.0\WritingFunctions.exe
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 4\WritingFunctions\WritingFunctions\bin\Debug\net5.0\WritingFunctions.deps.json
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 4\WritingFunctions\WritingFunctions\bin\Debug\net5.0\WritingFunctions.runtimeconfig.json
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 4\WritingFunctions\WritingFunctions\bin\Debug\net5.0\WritingFunctions.runtimeconfig.dev.json
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 4\WritingFunctions\WritingFunctions\bin\Debug\net5.0\WritingFunctions.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 4\WritingFunctions\WritingFunctions\bin\Debug\net5.0\ref\WritingFunctions.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 4\WritingFunctions\WritingFunctions\bin\Debug\net5.0\WritingFunctions.pdb
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 4\WritingFunctions\WritingFunctions\obj\Debug\net5.0\WritingFunctions.csproj.AssemblyReference.cache
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 4\WritingFunctions\WritingFunctions\obj\Debug\net5.0\WritingFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 4\WritingFunctions\WritingFunctions\obj\Debug\net5.0\WritingFunctions.AssemblyInfoInputs.cache
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 4\WritingFunctions\WritingFunctions\obj\Debug\net5.0\WritingFunctions.AssemblyInfo.cs
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 4\WritingFunctions\WritingFunctions\obj\Debug\net5.0\WritingFunctions.csproj.CoreCompileInputs.cache
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 4\WritingFunctions\WritingFunctions\obj\Debug\net5.0\WritingFunctions.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 4\WritingFunctions\WritingFunctions\obj\Debug\net5.0\ref\WritingFunctions.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 4\WritingFunctions\WritingFunctions\obj\Debug\net5.0\WritingFunctions.pdb
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 4\WritingFunctions\WritingFunctions\obj\Debug\net5.0\WritingFunctions.genruntimeconfig.cache

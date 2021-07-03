@@ -1,0 +1,15 @@
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\BitwiseAndShiftOperators\BitwiseAndShiftOperators\bin\Debug\net5.0\BitwiseAndShiftOperators.exe
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\BitwiseAndShiftOperators\BitwiseAndShiftOperators\bin\Debug\net5.0\BitwiseAndShiftOperators.deps.json
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\BitwiseAndShiftOperators\BitwiseAndShiftOperators\bin\Debug\net5.0\BitwiseAndShiftOperators.runtimeconfig.json
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\BitwiseAndShiftOperators\BitwiseAndShiftOperators\bin\Debug\net5.0\BitwiseAndShiftOperators.runtimeconfig.dev.json
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\BitwiseAndShiftOperators\BitwiseAndShiftOperators\bin\Debug\net5.0\BitwiseAndShiftOperators.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\BitwiseAndShiftOperators\BitwiseAndShiftOperators\bin\Debug\net5.0\ref\BitwiseAndShiftOperators.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\BitwiseAndShiftOperators\BitwiseAndShiftOperators\bin\Debug\net5.0\BitwiseAndShiftOperators.pdb
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\BitwiseAndShiftOperators\BitwiseAndShiftOperators\obj\Debug\net5.0\BitwiseAndShiftOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\BitwiseAndShiftOperators\BitwiseAndShiftOperators\obj\Debug\net5.0\BitwiseAndShiftOperators.AssemblyInfoInputs.cache
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\BitwiseAndShiftOperators\BitwiseAndShiftOperators\obj\Debug\net5.0\BitwiseAndShiftOperators.AssemblyInfo.cs
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\BitwiseAndShiftOperators\BitwiseAndShiftOperators\obj\Debug\net5.0\BitwiseAndShiftOperators.csproj.CoreCompileInputs.cache
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\BitwiseAndShiftOperators\BitwiseAndShiftOperators\obj\Debug\net5.0\BitwiseAndShiftOperators.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\BitwiseAndShiftOperators\BitwiseAndShiftOperators\obj\Debug\net5.0\ref\BitwiseAndShiftOperators.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\BitwiseAndShiftOperators\BitwiseAndShiftOperators\obj\Debug\net5.0\BitwiseAndShiftOperators.pdb
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 3\BitwiseAndShiftOperators\BitwiseAndShiftOperators\obj\Debug\net5.0\BitwiseAndShiftOperators.genruntimeconfig.cache
