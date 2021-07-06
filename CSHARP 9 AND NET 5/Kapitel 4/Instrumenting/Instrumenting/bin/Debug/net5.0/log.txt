@@ -1,0 +1,4 @@
+Debuggen säger att jag kollar
+Trace säger att jag kollar
+Trace fel
+Trace varning

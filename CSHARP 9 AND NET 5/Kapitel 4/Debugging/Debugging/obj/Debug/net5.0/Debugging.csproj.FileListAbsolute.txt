@@ -13,3 +13,4 @@ C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 4\Debugging\Debugg
 C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 4\Debugging\Debugging\obj\Debug\net5.0\ref\Debugging.dll
 C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 4\Debugging\Debugging\obj\Debug\net5.0\Debugging.pdb
 C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 4\Debugging\Debugging\obj\Debug\net5.0\Debugging.genruntimeconfig.cache
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 4\Debugging\Debugging\obj\Debug\net5.0\Debugging.csproj.AssemblyReference.cache
