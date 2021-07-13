@@ -1,0 +1,12 @@
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 5\Chapter 05\PacktLibrary9\bin\Debug\net5.0\PacktLibrary9.deps.json
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 5\Chapter 05\PacktLibrary9\bin\Debug\net5.0\PacktLibrary9.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 5\Chapter 05\PacktLibrary9\bin\Debug\net5.0\ref\PacktLibrary9.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 5\Chapter 05\PacktLibrary9\bin\Debug\net5.0\PacktLibrary9.pdb
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 5\Chapter 05\PacktLibrary9\obj\Debug\net5.0\PacktLibrary9.csproj.AssemblyReference.cache
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 5\Chapter 05\PacktLibrary9\obj\Debug\net5.0\PacktLibrary9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 5\Chapter 05\PacktLibrary9\obj\Debug\net5.0\PacktLibrary9.AssemblyInfoInputs.cache
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 5\Chapter 05\PacktLibrary9\obj\Debug\net5.0\PacktLibrary9.AssemblyInfo.cs
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 5\Chapter 05\PacktLibrary9\obj\Debug\net5.0\PacktLibrary9.csproj.CoreCompileInputs.cache
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 5\Chapter 05\PacktLibrary9\obj\Debug\net5.0\PacktLibrary9.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 5\Chapter 05\PacktLibrary9\obj\Debug\net5.0\ref\PacktLibrary9.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 5\Chapter 05\PacktLibrary9\obj\Debug\net5.0\PacktLibrary9.pdb
