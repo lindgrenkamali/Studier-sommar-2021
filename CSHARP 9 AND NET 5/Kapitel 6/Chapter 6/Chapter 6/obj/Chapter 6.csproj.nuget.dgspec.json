@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\david\\Studier-sommar-2021\\CSHARP 9 AND NET 5\\Kapitel 5\\Chapter 05\\PeopleApp\\PeopleApp.csproj": {}
+    "C:\\Users\\david\\Studier-sommar-2021\\CSHARP 9 AND NET 5\\Kapitel 6\\Chapter 6\\Chapter 6\\Chapter 6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\david\\Studier-sommar-2021\\CSHARP 9 AND NET 5\\Kapitel 5\\Chapter 05\\PacktLibrary9\\PacktLibrary9.csproj": {
+    "C:\\Users\\david\\Studier-sommar-2021\\CSHARP 9 AND NET 5\\Kapitel 6\\Chapter 6\\Chapter 6\\Chapter 6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\david\\Studier-sommar-2021\\CSHARP 9 AND NET 5\\Kapitel 5\\Chapter 05\\PacktLibrary9\\PacktLibrary9.csproj",
-        "projectName": "PacktLibrary9",
-        "projectPath": "C:\\Users\\david\\Studier-sommar-2021\\CSHARP 9 AND NET 5\\Kapitel 5\\Chapter 05\\PacktLibrary9\\PacktLibrary9.csproj",
+        "projectUniqueName": "C:\\Users\\david\\Studier-sommar-2021\\CSHARP 9 AND NET 5\\Kapitel 6\\Chapter 6\\Chapter 6\\Chapter 6.csproj",
+        "projectName": "Chapter 6",
+        "projectPath": "C:\\Users\\david\\Studier-sommar-2021\\CSHARP 9 AND NET 5\\Kapitel 6\\Chapter 6\\Chapter 6\\Chapter 6.csproj",
         "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\david\\Studier-sommar-2021\\CSHARP 9 AND NET 5\\Kapitel 5\\Chapter 05\\PacktLibrary9\\obj\\",
+        "outputPath": "C:\\Users\\david\\Studier-sommar-2021\\CSHARP 9 AND NET 5\\Kapitel 6\\Chapter 6\\Chapter 6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,7 +27,11 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\david\\Studier-sommar-2021\\CSHARP 9 AND NET 5\\Kapitel 6\\Chapter 6\\PacktLibrary\\PacktLibrary.csproj": {
+                "projectPath": "C:\\Users\\david\\Studier-sommar-2021\\CSHARP 9 AND NET 5\\Kapitel 6\\Chapter 6\\PacktLibrary\\PacktLibrary.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -58,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\david\\Studier-sommar-2021\\CSHARP 9 AND NET 5\\Kapitel 5\\Chapter 05\\PeopleApp\\PeopleApp.csproj": {
+    "C:\\Users\\david\\Studier-sommar-2021\\CSHARP 9 AND NET 5\\Kapitel 6\\Chapter 6\\PacktLibrary\\PacktLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\david\\Studier-sommar-2021\\CSHARP 9 AND NET 5\\Kapitel 5\\Chapter 05\\PeopleApp\\PeopleApp.csproj",
-        "projectName": "PeopleApp",
-        "projectPath": "C:\\Users\\david\\Studier-sommar-2021\\CSHARP 9 AND NET 5\\Kapitel 5\\Chapter 05\\PeopleApp\\PeopleApp.csproj",
+        "projectUniqueName": "C:\\Users\\david\\Studier-sommar-2021\\CSHARP 9 AND NET 5\\Kapitel 6\\Chapter 6\\PacktLibrary\\PacktLibrary.csproj",
+        "projectName": "PacktLibrary",
+        "projectPath": "C:\\Users\\david\\Studier-sommar-2021\\CSHARP 9 AND NET 5\\Kapitel 6\\Chapter 6\\PacktLibrary\\PacktLibrary.csproj",
         "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\david\\Studier-sommar-2021\\CSHARP 9 AND NET 5\\Kapitel 5\\Chapter 05\\PeopleApp\\obj\\",
+        "outputPath": "C:\\Users\\david\\Studier-sommar-2021\\CSHARP 9 AND NET 5\\Kapitel 6\\Chapter 6\\PacktLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -81,11 +85,7 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {
-              "C:\\Users\\david\\Studier-sommar-2021\\CSHARP 9 AND NET 5\\Kapitel 5\\Chapter 05\\PacktLibrary9\\PacktLibrary9.csproj": {
-                "projectPath": "C:\\Users\\david\\Studier-sommar-2021\\CSHARP 9 AND NET 5\\Kapitel 5\\Chapter 05\\PacktLibrary9\\PacktLibrary9.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {

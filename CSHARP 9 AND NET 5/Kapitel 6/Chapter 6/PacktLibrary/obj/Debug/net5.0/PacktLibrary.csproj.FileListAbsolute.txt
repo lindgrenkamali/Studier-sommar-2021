@@ -1,0 +1,12 @@
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 6\Chapter 6\PacktLibrary\bin\Debug\net5.0\PacktLibrary.deps.json
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 6\Chapter 6\PacktLibrary\bin\Debug\net5.0\PacktLibrary.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 6\Chapter 6\PacktLibrary\bin\Debug\net5.0\ref\PacktLibrary.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 6\Chapter 6\PacktLibrary\bin\Debug\net5.0\PacktLibrary.pdb
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 6\Chapter 6\PacktLibrary\obj\Debug\net5.0\PacktLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 6\Chapter 6\PacktLibrary\obj\Debug\net5.0\PacktLibrary.AssemblyInfoInputs.cache
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 6\Chapter 6\PacktLibrary\obj\Debug\net5.0\PacktLibrary.AssemblyInfo.cs
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 6\Chapter 6\PacktLibrary\obj\Debug\net5.0\PacktLibrary.csproj.CoreCompileInputs.cache
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 6\Chapter 6\PacktLibrary\obj\Debug\net5.0\PacktLibrary.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 6\Chapter 6\PacktLibrary\obj\Debug\net5.0\ref\PacktLibrary.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 6\Chapter 6\PacktLibrary\obj\Debug\net5.0\PacktLibrary.pdb
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 6\Chapter 6\PacktLibrary\obj\Debug\net5.0\PacktLibrary.csproj.AssemblyReference.cache

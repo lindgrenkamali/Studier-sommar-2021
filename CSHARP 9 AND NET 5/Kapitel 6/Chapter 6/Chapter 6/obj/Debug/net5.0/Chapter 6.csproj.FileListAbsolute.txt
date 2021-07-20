@@ -1,0 +1,19 @@
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 6\Chapter 6\Chapter 6\obj\Debug\net5.0\Chapter 6.csproj.AssemblyReference.cache
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 6\Chapter 6\Chapter 6\obj\Debug\net5.0\Chapter 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 6\Chapter 6\Chapter 6\obj\Debug\net5.0\Chapter 6.AssemblyInfoInputs.cache
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 6\Chapter 6\Chapter 6\obj\Debug\net5.0\Chapter 6.AssemblyInfo.cs
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 6\Chapter 6\Chapter 6\obj\Debug\net5.0\Chapter 6.csproj.CoreCompileInputs.cache
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 6\Chapter 6\Chapter 6\bin\Debug\net5.0\Chapter 6.exe
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 6\Chapter 6\Chapter 6\bin\Debug\net5.0\Chapter 6.deps.json
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 6\Chapter 6\Chapter 6\bin\Debug\net5.0\Chapter 6.runtimeconfig.json
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 6\Chapter 6\Chapter 6\bin\Debug\net5.0\Chapter 6.runtimeconfig.dev.json
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 6\Chapter 6\Chapter 6\bin\Debug\net5.0\Chapter 6.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 6\Chapter 6\Chapter 6\bin\Debug\net5.0\ref\Chapter 6.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 6\Chapter 6\Chapter 6\bin\Debug\net5.0\Chapter 6.pdb
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 6\Chapter 6\Chapter 6\bin\Debug\net5.0\PacktLibrary.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 6\Chapter 6\Chapter 6\bin\Debug\net5.0\PacktLibrary.pdb
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 6\Chapter 6\Chapter 6\obj\Debug\net5.0\Chapter 6.csproj.CopyComplete
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 6\Chapter 6\Chapter 6\obj\Debug\net5.0\Chapter 6.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 6\Chapter 6\Chapter 6\obj\Debug\net5.0\ref\Chapter 6.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 6\Chapter 6\Chapter 6\obj\Debug\net5.0\Chapter 6.pdb
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 6\Chapter 6\Chapter 6\obj\Debug\net5.0\Chapter 6.genruntimeconfig.cache
