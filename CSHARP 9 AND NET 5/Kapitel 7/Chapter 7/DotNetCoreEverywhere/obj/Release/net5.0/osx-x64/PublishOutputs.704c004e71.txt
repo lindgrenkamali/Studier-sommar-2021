@@ -1,0 +1,5 @@
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 7\Chapter 7\DotNetCoreEverywhere\bin\Release\net5.0\publish\DotNetCoreEverywhere
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 7\Chapter 7\DotNetCoreEverywhere\bin\Release\net5.0\publish\DotNetCoreEverywhere.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 7\Chapter 7\DotNetCoreEverywhere\bin\Release\net5.0\publish\DotNetCoreEverywhere.deps.json
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 7\Chapter 7\DotNetCoreEverywhere\bin\Release\net5.0\publish\DotNetCoreEverywhere.runtimeconfig.json
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 7\Chapter 7\DotNetCoreEverywhere\bin\Release\net5.0\publish\DotNetCoreEverywhere.pdb

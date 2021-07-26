@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+	  <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+	  <PackageId>Packt.CSdotnet.SharedLibrary</PackageId>
+	  <PackageVersion>5.0.0.0</PackageVersion>
+	  <Title>CSHARP 9 AND NET 5 Shared Library</Title>
+	  <Authors>Real author: Mark J Price; Copy paste: lindgrenkamali</Authors>
+	  <PackageLicenseExpression>MS-PL</PackageLicenseExpression>
+	  <PackageProjectUrl>https://github.com/lindgrenkamali/Studier-sommar-2021</PackageProjectUrl>
+	  <PackageIcon>packt-csdotnet-sharedlibrary.png</PackageIcon>
+	  <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+	  <PackageReleaseNotes>Exempel delat bibliotek paketerad för NuGet.</PackageReleaseNotes>
+	  <Description>Tre extension metoder för att validera ett string värde.</Description>
+	  <Copyright>Copyright © 2021 Packt Publishing Limited</Copyright>
+	  <PackageTags>string extensions</PackageTags>
+  </PropertyGroup>
+
+
+	<ItemGroup>
+		<None Include="packt-csdotnet-sharedlibrary.png">
+			<Pack>True</Pack>
+			<PackagePath></PackagePath>
+		</None>
+	</ItemGroup>
+
+</Project>

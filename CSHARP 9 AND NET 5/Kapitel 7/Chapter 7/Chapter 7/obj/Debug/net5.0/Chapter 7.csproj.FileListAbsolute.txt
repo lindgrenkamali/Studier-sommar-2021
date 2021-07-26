@@ -1,0 +1,35 @@
+C:\Users\david\source\repos\Chapter 7\Chapter 7\obj\Debug\net5.0\Chapter 7.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\Chapter 7\Chapter 7\obj\Debug\net5.0\Chapter 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\Chapter 7\Chapter 7\obj\Debug\net5.0\Chapter 7.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\Chapter 7\Chapter 7\obj\Debug\net5.0\Chapter 7.AssemblyInfo.cs
+C:\Users\david\source\repos\Chapter 7\Chapter 7\obj\Debug\net5.0\Chapter 7.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\Chapter 7\Chapter 7\bin\Debug\net5.0\Chapter 7.exe
+C:\Users\david\source\repos\Chapter 7\Chapter 7\bin\Debug\net5.0\Chapter 7.deps.json
+C:\Users\david\source\repos\Chapter 7\Chapter 7\bin\Debug\net5.0\Chapter 7.runtimeconfig.json
+C:\Users\david\source\repos\Chapter 7\Chapter 7\bin\Debug\net5.0\Chapter 7.runtimeconfig.dev.json
+C:\Users\david\source\repos\Chapter 7\Chapter 7\bin\Debug\net5.0\Chapter 7.dll
+C:\Users\david\source\repos\Chapter 7\Chapter 7\bin\Debug\net5.0\ref\Chapter 7.dll
+C:\Users\david\source\repos\Chapter 7\Chapter 7\bin\Debug\net5.0\Chapter 7.pdb
+C:\Users\david\source\repos\Chapter 7\Chapter 7\obj\Debug\net5.0\Chapter 7.dll
+C:\Users\david\source\repos\Chapter 7\Chapter 7\obj\Debug\net5.0\ref\Chapter 7.dll
+C:\Users\david\source\repos\Chapter 7\Chapter 7\obj\Debug\net5.0\Chapter 7.pdb
+C:\Users\david\source\repos\Chapter 7\Chapter 7\obj\Debug\net5.0\Chapter 7.genruntimeconfig.cache
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 7\Chapter 7\Chapter 7\bin\Debug\net5.0\Chapter 7.exe
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 7\Chapter 7\Chapter 7\bin\Debug\net5.0\Chapter 7.deps.json
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 7\Chapter 7\Chapter 7\bin\Debug\net5.0\Chapter 7.runtimeconfig.json
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 7\Chapter 7\Chapter 7\bin\Debug\net5.0\Chapter 7.runtimeconfig.dev.json
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 7\Chapter 7\Chapter 7\bin\Debug\net5.0\Chapter 7.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 7\Chapter 7\Chapter 7\bin\Debug\net5.0\ref\Chapter 7.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 7\Chapter 7\Chapter 7\bin\Debug\net5.0\Chapter 7.pdb
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 7\Chapter 7\Chapter 7\bin\Debug\net5.0\DialectSoftware.Collections.Matrix.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 7\Chapter 7\Chapter 7\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 7\Chapter 7\Chapter 7\obj\Debug\net5.0\Chapter 7.csproj.AssemblyReference.cache
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 7\Chapter 7\Chapter 7\obj\Debug\net5.0\Chapter 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 7\Chapter 7\Chapter 7\obj\Debug\net5.0\Chapter 7.AssemblyInfoInputs.cache
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 7\Chapter 7\Chapter 7\obj\Debug\net5.0\Chapter 7.AssemblyInfo.cs
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 7\Chapter 7\Chapter 7\obj\Debug\net5.0\Chapter 7.csproj.CoreCompileInputs.cache
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 7\Chapter 7\Chapter 7\obj\Debug\net5.0\Chapter 7.csproj.CopyComplete
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 7\Chapter 7\Chapter 7\obj\Debug\net5.0\Chapter 7.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 7\Chapter 7\Chapter 7\obj\Debug\net5.0\ref\Chapter 7.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 7\Chapter 7\Chapter 7\obj\Debug\net5.0\Chapter 7.pdb
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 7\Chapter 7\Chapter 7\obj\Debug\net5.0\Chapter 7.genruntimeconfig.cache

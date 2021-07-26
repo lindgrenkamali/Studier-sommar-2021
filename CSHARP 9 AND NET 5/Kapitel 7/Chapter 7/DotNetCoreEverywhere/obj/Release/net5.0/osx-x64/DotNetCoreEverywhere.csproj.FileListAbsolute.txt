@@ -1,0 +1,15 @@
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 7\Chapter 7\DotNetCoreEverywhere\bin\Release\net5.0\osx-x64\DotNetCoreEverywhere
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 7\Chapter 7\DotNetCoreEverywhere\bin\Release\net5.0\osx-x64\DotNetCoreEverywhere.deps.json
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 7\Chapter 7\DotNetCoreEverywhere\bin\Release\net5.0\osx-x64\DotNetCoreEverywhere.runtimeconfig.json
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 7\Chapter 7\DotNetCoreEverywhere\bin\Release\net5.0\osx-x64\DotNetCoreEverywhere.runtimeconfig.dev.json
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 7\Chapter 7\DotNetCoreEverywhere\bin\Release\net5.0\osx-x64\DotNetCoreEverywhere.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 7\Chapter 7\DotNetCoreEverywhere\bin\Release\net5.0\osx-x64\ref\DotNetCoreEverywhere.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 7\Chapter 7\DotNetCoreEverywhere\bin\Release\net5.0\osx-x64\DotNetCoreEverywhere.pdb
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 7\Chapter 7\DotNetCoreEverywhere\obj\Release\net5.0\osx-x64\DotNetCoreEverywhere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 7\Chapter 7\DotNetCoreEverywhere\obj\Release\net5.0\osx-x64\DotNetCoreEverywhere.AssemblyInfoInputs.cache
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 7\Chapter 7\DotNetCoreEverywhere\obj\Release\net5.0\osx-x64\DotNetCoreEverywhere.AssemblyInfo.cs
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 7\Chapter 7\DotNetCoreEverywhere\obj\Release\net5.0\osx-x64\DotNetCoreEverywhere.csproj.CoreCompileInputs.cache
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 7\Chapter 7\DotNetCoreEverywhere\obj\Release\net5.0\osx-x64\DotNetCoreEverywhere.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 7\Chapter 7\DotNetCoreEverywhere\obj\Release\net5.0\osx-x64\ref\DotNetCoreEverywhere.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 7\Chapter 7\DotNetCoreEverywhere\obj\Release\net5.0\osx-x64\DotNetCoreEverywhere.pdb
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 7\Chapter 7\DotNetCoreEverywhere\obj\Release\net5.0\osx-x64\DotNetCoreEverywhere.genruntimeconfig.cache

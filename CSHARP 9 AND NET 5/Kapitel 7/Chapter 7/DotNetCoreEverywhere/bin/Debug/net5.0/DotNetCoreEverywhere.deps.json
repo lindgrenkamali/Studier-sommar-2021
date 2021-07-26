@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DotNetCoreEverywhere/1.0.0": {
+        "dependencies": {
+          "Packt.CSdotnet.SharedLibrary": "5.0.0"
+        },
+        "runtime": {
+          "DotNetCoreEverywhere.dll": {}
+        }
+      },
+      "Packt.CSdotnet.SharedLibrary/5.0.0": {
+        "runtime": {
+          "SharedLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DotNetCoreEverywhere/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Packt.CSdotnet.SharedLibrary/5.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OHkKLnAEpqRIwiKT3DkDtl11KlqZnOxIi5yz3tYDA4JqF64qRvRc6oIuWnAWhT+TX0GUSpabtKGadnwgE2++FA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\david\\Studier-sommar-2021\\CSHARP 9 AND NET 5\\Kapitel 7\\Chapter 7\\SharedLibrary\\SharedLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
