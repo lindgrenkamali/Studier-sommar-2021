@@ -1,0 +1,15 @@
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\WorkingWithRanges\bin\Debug\net5.0\WorkingWithRanges.exe
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\WorkingWithRanges\bin\Debug\net5.0\WorkingWithRanges.deps.json
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\WorkingWithRanges\bin\Debug\net5.0\WorkingWithRanges.runtimeconfig.json
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\WorkingWithRanges\bin\Debug\net5.0\WorkingWithRanges.runtimeconfig.dev.json
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\WorkingWithRanges\bin\Debug\net5.0\WorkingWithRanges.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\WorkingWithRanges\bin\Debug\net5.0\ref\WorkingWithRanges.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\WorkingWithRanges\bin\Debug\net5.0\WorkingWithRanges.pdb
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\WorkingWithRanges\obj\Debug\net5.0\WorkingWithRanges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\WorkingWithRanges\obj\Debug\net5.0\WorkingWithRanges.AssemblyInfoInputs.cache
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\WorkingWithRanges\obj\Debug\net5.0\WorkingWithRanges.AssemblyInfo.cs
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\WorkingWithRanges\obj\Debug\net5.0\WorkingWithRanges.csproj.CoreCompileInputs.cache
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\WorkingWithRanges\obj\Debug\net5.0\WorkingWithRanges.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\WorkingWithRanges\obj\Debug\net5.0\ref\WorkingWithRanges.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\WorkingWithRanges\obj\Debug\net5.0\WorkingWithRanges.pdb
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\WorkingWithRanges\obj\Debug\net5.0\WorkingWithRanges.genruntimeconfig.cache

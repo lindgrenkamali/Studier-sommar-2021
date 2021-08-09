@@ -1,0 +1,16 @@
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\Internalization\obj\Debug\net5.0\Internalization.csproj.AssemblyReference.cache
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\Internalization\obj\Debug\net5.0\Internalization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\Internalization\obj\Debug\net5.0\Internalization.AssemblyInfoInputs.cache
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\Internalization\obj\Debug\net5.0\Internalization.AssemblyInfo.cs
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\Internalization\obj\Debug\net5.0\Internalization.csproj.CoreCompileInputs.cache
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\Internalization\bin\Debug\net5.0\Internalization.exe
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\Internalization\bin\Debug\net5.0\Internalization.deps.json
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\Internalization\bin\Debug\net5.0\Internalization.runtimeconfig.json
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\Internalization\bin\Debug\net5.0\Internalization.runtimeconfig.dev.json
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\Internalization\bin\Debug\net5.0\Internalization.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\Internalization\bin\Debug\net5.0\ref\Internalization.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\Internalization\bin\Debug\net5.0\Internalization.pdb
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\Internalization\obj\Debug\net5.0\Internalization.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\Internalization\obj\Debug\net5.0\ref\Internalization.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\Internalization\obj\Debug\net5.0\Internalization.pdb
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\Internalization\obj\Debug\net5.0\Internalization.genruntimeconfig.cache

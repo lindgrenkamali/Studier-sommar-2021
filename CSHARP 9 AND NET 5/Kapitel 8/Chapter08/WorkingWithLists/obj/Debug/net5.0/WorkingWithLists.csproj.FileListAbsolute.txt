@@ -1,0 +1,16 @@
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\WorkingWithLists\bin\Debug\net5.0\WorkingWithLists.exe
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\WorkingWithLists\bin\Debug\net5.0\WorkingWithLists.deps.json
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\WorkingWithLists\bin\Debug\net5.0\WorkingWithLists.runtimeconfig.json
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\WorkingWithLists\bin\Debug\net5.0\WorkingWithLists.runtimeconfig.dev.json
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\WorkingWithLists\bin\Debug\net5.0\WorkingWithLists.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\WorkingWithLists\bin\Debug\net5.0\ref\WorkingWithLists.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\WorkingWithLists\bin\Debug\net5.0\WorkingWithLists.pdb
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\WorkingWithLists\obj\Debug\net5.0\WorkingWithLists.csproj.AssemblyReference.cache
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\WorkingWithLists\obj\Debug\net5.0\WorkingWithLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\WorkingWithLists\obj\Debug\net5.0\WorkingWithLists.AssemblyInfoInputs.cache
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\WorkingWithLists\obj\Debug\net5.0\WorkingWithLists.AssemblyInfo.cs
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\WorkingWithLists\obj\Debug\net5.0\WorkingWithLists.csproj.CoreCompileInputs.cache
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\WorkingWithLists\obj\Debug\net5.0\WorkingWithLists.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\WorkingWithLists\obj\Debug\net5.0\ref\WorkingWithLists.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\WorkingWithLists\obj\Debug\net5.0\WorkingWithLists.pdb
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\WorkingWithLists\obj\Debug\net5.0\WorkingWithLists.genruntimeconfig.cache

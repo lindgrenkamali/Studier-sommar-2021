@@ -1,0 +1,16 @@
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\WorkingWithRegularExpressions\bin\Debug\net5.0\WorkingWithRegularExpressions.exe
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\WorkingWithRegularExpressions\bin\Debug\net5.0\WorkingWithRegularExpressions.deps.json
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\WorkingWithRegularExpressions\bin\Debug\net5.0\WorkingWithRegularExpressions.runtimeconfig.json
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\WorkingWithRegularExpressions\bin\Debug\net5.0\WorkingWithRegularExpressions.runtimeconfig.dev.json
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\WorkingWithRegularExpressions\bin\Debug\net5.0\WorkingWithRegularExpressions.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\WorkingWithRegularExpressions\bin\Debug\net5.0\ref\WorkingWithRegularExpressions.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\WorkingWithRegularExpressions\bin\Debug\net5.0\WorkingWithRegularExpressions.pdb
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\WorkingWithRegularExpressions\obj\Debug\net5.0\WorkingWithRegularExpressions.csproj.AssemblyReference.cache
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\WorkingWithRegularExpressions\obj\Debug\net5.0\WorkingWithRegularExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\WorkingWithRegularExpressions\obj\Debug\net5.0\WorkingWithRegularExpressions.AssemblyInfoInputs.cache
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\WorkingWithRegularExpressions\obj\Debug\net5.0\WorkingWithRegularExpressions.AssemblyInfo.cs
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\WorkingWithRegularExpressions\obj\Debug\net5.0\WorkingWithRegularExpressions.csproj.CoreCompileInputs.cache
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\WorkingWithRegularExpressions\obj\Debug\net5.0\WorkingWithRegularExpressions.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\WorkingWithRegularExpressions\obj\Debug\net5.0\ref\WorkingWithRegularExpressions.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\WorkingWithRegularExpressions\obj\Debug\net5.0\WorkingWithRegularExpressions.pdb
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 8\Chapter08\WorkingWithRegularExpressions\obj\Debug\net5.0\WorkingWithRegularExpressions.genruntimeconfig.cache
