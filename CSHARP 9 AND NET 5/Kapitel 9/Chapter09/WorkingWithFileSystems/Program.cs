@@ -1,9 +1,9 @@
 ﻿using System;
 using System.IO; //Typer för att hantera filsystemet
 using static System.Console;
+using static System.Environment;
 using static System.IO.Directory;
 using static System.IO.Path;
-using static System.Environment;
 
 namespace WorkingWithFileSystems
 {
@@ -12,8 +12,66 @@ namespace WorkingWithFileSystems
         static void Main(string[] args)
         {
             //OutputFileSystemInfo();
-           // WorkingWithDrives();
-            WorkWithDirectories();
+            // WorkingWithDrives();
+            //WorkWithDirectories();
+
+            WorkWithFiles();
+        }
+
+        private static void WorkWithFiles()
+        {
+
+            //Definera en filväg till utmatning av filer
+            //Börja med användarens mapp
+            var dir = Combine(GetFolderPath(SpecialFolder.Personal), "Kod", "Kapitel9", "UtmatningsFiler");
+            CreateDirectory(dir);
+
+            //Definera filvägar
+            string textFile = Combine(dir, "Dum.txt");
+            string backupFile = Combine(dir, "Dum.bak");
+
+            Console.WriteLine($"Jobbar med {textFile}");
+
+            //Kollar om filen existerar
+            Console.WriteLine($"Existerar filen? {File.Exists(textFile)}");
+
+            //Skapar en ny textfil och skriver in till den
+            StreamWriter sw = File.CreateText(textFile);
+
+            sw.WriteLine("Abow knas!");
+            sw.Close(); //Stänger och frigör resurser
+            WriteLine($"Existerar filen? {File.Exists(textFile)}");
+
+            //Kopierar och skriver över filen om den redan existerar
+            File.Copy(sourceFileName: textFile, destFileName: backupFile, overwrite: true);
+            Console.WriteLine($"Existerar backup filen? {File.Exists(backupFile)}");
+
+            File.Delete(textFile);
+            WriteLine($"Existerar filen? {File.Exists(textFile)}");
+
+
+            //Läser upp text från backupen
+            WriteLine($"Läster upp innehållet av {backupFile}:");
+            StreamReader bF = File.OpenText(backupFile);
+            WriteLine(bF.ReadToEnd());
+            bF.Close();
+
+            //Hanterar vägar
+            WriteLine($"Mapp Namn: {GetDirectoryName(textFile)}");
+            WriteLine($"Fil Namn: {GetFileName(textFile)}");
+            WriteLine($"Fil Namn utan tillägg: {GetFileNameWithoutExtension(textFile)}");
+            WriteLine($"Fil Namn med tillägg: {GetExtension(textFile)}");
+            WriteLine($"Random Fil Namn: {GetRandomFileName()}");
+            WriteLine($"Temporärt Fil Namn: {GetTempFileName()}");
+
+            var info = new FileInfo(backupFile);
+
+            WriteLine($"{backupFile}");
+
+            Console.WriteLine($"Innehåller {info.Length} bytes");
+            Console.WriteLine($"Senast åtkomst {info.LastAccessTime}");
+            Console.WriteLine($"Har readonly satt till {info.IsReadOnly}");
+
         }
 
         static void WorkWithDirectories()
@@ -44,9 +102,9 @@ namespace WorkingWithFileSystems
         static void WorkingWithDrives()
         {
             WriteLine("{0,-30} | {1,-10} | {2,-7} | {3,18} | {4,18}",
-       "NAMN", "TYP", "FORMAT", "STORLEK (BITAR)", "LEDIGT UTRYMME");
+       "NAMN", "TYP", "FORMAT", "STORLEK (BYTES)", "LEDIGT UTRYMME");
 
-            foreach(DriveInfo drive in DriveInfo.GetDrives())
+            foreach (DriveInfo drive in DriveInfo.GetDrives())
             {
                 if (drive.IsReady)
                 {

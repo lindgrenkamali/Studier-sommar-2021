@@ -1,0 +1,16 @@
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 9\Chapter09\WorkingWithStreams\bin\Debug\net5.0\WorkingWithStreams.exe
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 9\Chapter09\WorkingWithStreams\bin\Debug\net5.0\WorkingWithStreams.deps.json
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 9\Chapter09\WorkingWithStreams\bin\Debug\net5.0\WorkingWithStreams.runtimeconfig.json
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 9\Chapter09\WorkingWithStreams\bin\Debug\net5.0\WorkingWithStreams.runtimeconfig.dev.json
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 9\Chapter09\WorkingWithStreams\bin\Debug\net5.0\WorkingWithStreams.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 9\Chapter09\WorkingWithStreams\bin\Debug\net5.0\ref\WorkingWithStreams.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 9\Chapter09\WorkingWithStreams\bin\Debug\net5.0\WorkingWithStreams.pdb
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 9\Chapter09\WorkingWithStreams\obj\Debug\net5.0\WorkingWithStreams.csproj.AssemblyReference.cache
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 9\Chapter09\WorkingWithStreams\obj\Debug\net5.0\WorkingWithStreams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 9\Chapter09\WorkingWithStreams\obj\Debug\net5.0\WorkingWithStreams.AssemblyInfoInputs.cache
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 9\Chapter09\WorkingWithStreams\obj\Debug\net5.0\WorkingWithStreams.AssemblyInfo.cs
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 9\Chapter09\WorkingWithStreams\obj\Debug\net5.0\WorkingWithStreams.csproj.CoreCompileInputs.cache
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 9\Chapter09\WorkingWithStreams\obj\Debug\net5.0\WorkingWithStreams.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 9\Chapter09\WorkingWithStreams\obj\Debug\net5.0\ref\WorkingWithStreams.dll
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 9\Chapter09\WorkingWithStreams\obj\Debug\net5.0\WorkingWithStreams.pdb
+C:\Users\david\Studier-sommar-2021\CSHARP 9 AND NET 5\Kapitel 9\Chapter09\WorkingWithStreams\obj\Debug\net5.0\WorkingWithStreams.genruntimeconfig.cache
