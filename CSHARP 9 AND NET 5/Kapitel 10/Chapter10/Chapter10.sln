@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptographyLib", "CryptographyLib\CryptographyLib.csproj", "{43102EDC-D5C4-4575-B2BD-849E6C746E13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptionApp", "EncryptionApp\EncryptionApp.csproj", "{226AC572-05BF-44A1-BC7B-A8F5DD049CC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashingApp", "HashingApp\HashingApp.csproj", "{216F0C66-8E2B-4D80-87B4-FAB5B2CF6D3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43102EDC-D5C4-4575-B2BD-849E6C746E13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43102EDC-D5C4-4575-B2BD-849E6C746E13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43102EDC-D5C4-4575-B2BD-849E6C746E13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43102EDC-D5C4-4575-B2BD-849E6C746E13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{226AC572-05BF-44A1-BC7B-A8F5DD049CC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{226AC572-05BF-44A1-BC7B-A8F5DD049CC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{226AC572-05BF-44A1-BC7B-A8F5DD049CC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{226AC572-05BF-44A1-BC7B-A8F5DD049CC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{216F0C66-8E2B-4D80-87B4-FAB5B2CF6D3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{216F0C66-8E2B-4D80-87B4-FAB5B2CF6D3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{216F0C66-8E2B-4D80-87B4-FAB5B2CF6D3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{216F0C66-8E2B-4D80-87B4-FAB5B2CF6D3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57974CA1-8C9A-442C-A392-E9C861E99E1C}
+	EndGlobalSection
+EndGlobal
